@@ -119,10 +119,51 @@ img {
     transition: .5s;
   }
   .main {
-    margin-top: 4rem;
+    margin-top: 3rem;
   }
   .main #hero {
     margin-left: 0;
+  }
+  .main #hero ::-webkit-input-placeholder {
+    color: white;
+  }
+  .main #hero :-ms-input-placeholder {
+    color: white;
+  }
+  .main #hero ::-ms-input-placeholder {
+    color: white;
+  }
+  .main #hero ::placeholder {
+    color: white;
+  }
+  .main #hero #div1 #div2 .itm1 {
+    margin-top: 0rem;
+  }
+  .main #hero #div1 #div2 .itm1 form .icon {
+    padding: 10px 0px;
+    min-width: 40px;
+  }
+  .main #hero #div1 #div2 .itm1 form #email {
+    background: transparent;
+    width: 69%;
+    padding: 5px 35px;
+    color: white;
+    margin-bottom: 10px;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button {
+    margin: 5px 0;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button .btn3 {
+    color: var(--white-color);
+    background-color: var(--dark-color);
+    border-color: var(--dark-color);
+    width: 69%;
+    padding: 6px 42px;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button .btn3:hover {
+    background-color: transparent;
+    color: var(--white-color);
+    border-color: var(--white-color);
   }
 }
 
@@ -304,6 +345,46 @@ img {
   }
   .main #hero {
     margin-left: 3.5rem;
+  }
+  .main #hero ::-webkit-input-placeholder {
+    color: white;
+  }
+  .main #hero :-ms-input-placeholder {
+    color: white;
+  }
+  .main #hero ::-ms-input-placeholder {
+    color: white;
+  }
+  .main #hero ::placeholder {
+    color: white;
+  }
+  .main #hero #div1 #div2 .itm1 {
+    margin-top: 8rem;
+  }
+  .main #hero #div1 #div2 .itm1 form .icon {
+    padding: 10px 0px;
+    min-width: 40px;
+  }
+  .main #hero #div1 #div2 .itm1 form #email {
+    background: transparent;
+    width: 69%;
+    padding: 5px 35px;
+    color: white;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button {
+    margin: 5px 0;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button .btn3 {
+    color: var(--white-color);
+    background-color: var(--dark-color);
+    border-color: var(--dark-color);
+    width: 69%;
+    padding: 6px 42px;
+  }
+  .main #hero #div1 #div2 .itm1 form .hero_button .btn3:hover {
+    background-color: transparent;
+    color: var(--white-color);
+    border-color: var(--white-color);
   }
 }
 

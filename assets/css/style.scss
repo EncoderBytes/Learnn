@@ -120,10 +120,56 @@ img {
     }
 
     .main {
-        margin-top: 4rem;
+        margin-top: 3rem;
 
         #hero {
             margin-left: 0;
+
+            ::placeholder {
+                color: white;
+            }
+
+            #div1 {
+                #div2 {
+                    .itm1 {
+                        margin-top: 0rem;
+
+                        form {
+                            .icon {
+                                padding: 10px 0px;
+                                min-width: 40px;
+                            }
+
+                            #email {
+                                background: transparent;
+                                width: 69%;
+                                padding: 5px 35px;
+                                color: white;
+                                margin-bottom: 10px
+                            }
+
+                            .hero_button {
+                                margin: 5px 0;
+
+                                .btn3 {
+                                    color: var(--white-color);
+                                    // opacity: .4;
+                                    background-color: var(--dark-color);
+                                    border-color: var(--dark-color);
+                                    width: 69%;
+                                    padding: 6px 42px;
+
+                                    &:hover {
+                                        background-color: transparent;
+                                        color: var(--white-color);
+                                        border-color: var(--white-color);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
@@ -320,6 +366,51 @@ img {
 
         #hero {
             margin-left: 3.5rem;
+
+            ::placeholder {
+                color: white;
+            }
+
+            #div1 {
+                #div2 {
+                    .itm1 {
+                        margin-top: 8rem;
+
+                        form {
+                            .icon {
+                                padding: 10px 0px;
+                                min-width: 40px;
+                            }
+
+                            #email {
+                                background: transparent;
+                                width: 69%;
+                                padding: 5px 35px;
+                                color: white;
+                            }
+
+                            .hero_button {
+                                margin: 5px 0;
+
+                                .btn3 {
+                                    color: var(--white-color);
+                                    // opacity: .4;
+                                    background-color: var(--dark-color);
+                                    border-color: var(--dark-color);
+                                    width: 69%;
+                                    padding: 6px 42px;
+
+                                    &:hover {
+                                        background-color: transparent;
+                                        color: var(--white-color);
+                                        border-color: var(--white-color);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
