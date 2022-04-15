@@ -246,6 +246,10 @@ img {
 }
 
 /*Active menu*/
+.active {
+  color: var(--first-color);
+}
+
 /*===== MEDIA QUERIES =====*/
 @media screen and (min-width: 780px) {
   body {
