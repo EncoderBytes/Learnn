@@ -165,6 +165,64 @@ img {
     color: var(--white-color);
     border-color: var(--white-color);
   }
+  #footer {
+    background-color: var(--dark-color);
+    margin-top: 10rem;
+  }
+  #footer #footer_main {
+    margin-left: 0rem;
+  }
+  #footer #footer_main ::-webkit-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main :-ms-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main ::-ms-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main ::placeholder {
+    color: white;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 {
+    margin-top: 0rem;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .icon2 {
+    padding: 10px 0px;
+    min-width: 16rem;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form #email {
+    background: transparent;
+    width: 69%;
+    padding: 5px 35px;
+    color: white;
+    margin-left: 69px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .footer_button .btn4 {
+    color: var(--dark-color);
+    background-color: var(--white-color);
+    border-color: var(--white-color);
+    width: 69%;
+    padding: 6px 42px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .footer_button .btn4:hover {
+    background-color: var(--first-color);
+    color: var(--white-color);
+    border-color: var(--first-color);
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 #link-ftr a {
+    color: white;
+    display: inline-block;
+    font-size: 11px;
+    padding: 0 2px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 #link-ftr a:hover {
+    color: var(--first-color);
+  }
+  #footer #footer_main #f_div1 #f_div2 #f_item2 {
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+  }
 }
 
 .nav__content {
@@ -386,9 +444,68 @@ img {
     padding: 6px 42px;
   }
   .main #hero #div1 #div2 .itm1 form .hero_button .btn3:hover {
-    background-color: transparent;
-    color: var(--white-color);
+    background-color: var(--white-color);
+    color: var(--dark-color);
     border-color: var(--white-color);
+  }
+  #footer {
+    background-color: var(--dark-color);
+    margin-top: 10rem;
+  }
+  #footer #footer_main {
+    margin-left: 2.6rem;
+  }
+  #footer #footer_main ::-webkit-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main :-ms-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main ::-ms-input-placeholder {
+    color: white;
+  }
+  #footer #footer_main ::placeholder {
+    color: white;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 {
+    margin-top: -5rem;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .icon2 {
+    padding: 10px 0px;
+    min-width: 40px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form #email {
+    background: transparent;
+    width: 69%;
+    padding: 5px 35px;
+    color: white;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .footer_button {
+    margin: 5px 0;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .footer_button .btn4 {
+    color: var(--dark-color);
+    background-color: var(--white-color);
+    border-color: var(--white-color);
+    width: 69%;
+    padding: 6px 42px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 .f_form .footer_button .btn4:hover {
+    background-color: var(--first-color);
+    color: var(--white-color);
+    border-color: var(--first-color);
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 #link-ftr a {
+    color: white;
+    display: inline-block;
+    font-size: 8px;
+    padding: 0 2px;
+  }
+  #footer #footer_main #f_div1 #f_div2 .f_itm1 #link-ftr a:hover {
+    color: var(--first-color);
+  }
+  #footer #footer_main #f_div1 #f_div2 #f_item2 {
+    margin-top: -12rem;
   }
 }
 
