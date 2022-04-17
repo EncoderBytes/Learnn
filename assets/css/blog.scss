@@ -163,12 +163,14 @@ img {
 
                     #section2 {
                         #all_container2 {
+                            margin: 0px;
+
                             .r2 {
                                 .c2 {
                                     background-color: var(--first-color);
                                     border-radius: 11px;
-
-                                    width: 35rem;
+                                    width: 33rem;
+                                    background-size: 15.8rem 23.8rem;
 
                                     #cardBody2 {
                                         padding: 0px;
@@ -176,7 +178,7 @@ img {
                                         .cardtext2 {
                                             h2 {
                                                 font-weight: bolder;
-                                                font-size: 20px;
+                                                font-size: 18px;
                                                 line-height: 100%;
                                                 color: #002166;
                                                 padding: 1rem 0rem;
@@ -192,7 +194,7 @@ img {
                                                 color: var(--white-color);
                                                 background-color: var(--first-color);
                                                 border-color: var(--first-color);
-                                                margin: 35px 0;
+                                                margin: 1.6rem 0;
                                                 width: 10rem;
                                                 padding: 12px 0;
 
@@ -201,11 +203,48 @@ img {
                                                     color: var(--white-color);
                                                     border-color: var(--white-color);
                                                 }
+
+                                                span {
+                                                    word-spacing: 0px;
+                                                    letter-spacing: 1.8px;
+                                                    text-transform: uppercase;
+                                                }
+
                                             }
                                         }
                                     }
                                 }
                             }
+                        }
+
+                        .sec2_button {
+                            margin: 5px 0;
+
+                            .out_btn1 {
+                                .btn1 {
+                                    margin: auto;
+                                    color: var(--white-color);
+                                    // opacity: .4;
+                                    background-color: transparent;
+                                    border-color: var(--white-color);
+                                    width: 70%;
+                                    padding: 6px 4px;
+
+                                    &:hover {
+                                        background-color: var(--dark-color);
+                                        color: var(--white-color);
+                                        border-color: var(--dark-color);
+                                    }
+
+                                    span {
+                                        word-spacing: 0px;
+                                        letter-spacing: 1.8px;
+                                        text-transform: uppercase;
+                                    }
+                                }
+                            }
+
+
                         }
                     }
                 }
@@ -529,11 +568,14 @@ img {
 
                     #section2 {
                         #all_container2 {
+                            margin: 55px;
+
                             .r2 {
                                 .c2 {
                                     background-color: var(--first-color);
                                     border-radius: 11px;
-                                    width: 35rem;
+                                    width: 33rem;
+                                    background-size: 32.9rem 33.33rem;
 
                                     #cardBody2 {
                                         padding: 0px;
@@ -557,7 +599,7 @@ img {
                                                 color: var(--white-color);
                                                 background-color: var(--first-color);
                                                 border-color: var(--first-color);
-                                                margin: 35px 0;
+                                                margin: 1.6rem 0;
                                                 width: 10rem;
                                                 padding: 12px 0;
 
