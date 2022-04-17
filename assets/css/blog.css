@@ -167,7 +167,7 @@ img {
     background-color: var(--first-color);
     border-radius: 11px;
     width: 33rem;
-    background-size: 15.8rem 23.8rem;
+    background-size: cover;
   }
   .blog #blog_hero #div1 #div2 #section2 #all_container2 .r2 .c2 #cardBody2 {
     padding: 0px;
