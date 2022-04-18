@@ -132,14 +132,11 @@ img {
     font-size: 19px;
     line-height: 120%;
   }
-  .pricing #section1_hero #div1 #div2 #section1 #all_container {
-    margin: 55px;
-  }
   .pricing #section1_hero #div1 #div2 #section1 #all_container .r .c {
     background: rgba(0, 33, 102, 0.2);
     border-radius: 11px;
     width: 33rem;
-    background-size: 21.64rem 13.18rem;
+    background-size: cover;
   }
   .pricing #section1_hero #div1 #div2 #section1 #all_container .r .c #cardBody {
     padding: 19px;
