@@ -336,18 +336,20 @@ img {
 
                                 }
 
-                                .btn8 {
-                                    color: var(--white-color);
-                                    background-color: var(--dark-color);
-                                    border-color: var(--dark-color);
-                                    margin: 26px 29px;
-                                    width: 14rem;
 
-                                    &:hover {
-                                        background-color: transparent;
-                                        color: var(--white-color);
-                                        border-color: var(--white-color);
-                                    }
+                            }
+
+                            .btn8 {
+                                color: var(--white-color);
+                                background-color: var(--dark-color);
+                                border-color: var(--dark-color);
+                                margin: 26px 0;
+                                width: 14rem;
+
+                                &:hover {
+                                    background-color: transparent;
+                                    color: var(--white-color);
+                                    border-color: var(--white-color);
                                 }
                             }
 
@@ -383,18 +385,7 @@ img {
         }
     }
 
-    #main2 {
-        #hero2 {
-            .div1 {
-                .div2 {
-                    .image_h {
-                        margin: 67px 24px;
-                        width: 200px;
-                    }
-                }
-            }
-        }
-    }
+
 
     #footer {
         background-color: var(--dark-color);

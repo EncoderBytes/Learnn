@@ -281,14 +281,14 @@ img {
     font-size: 14px;
     line-height: 100%;
   }
-  .main #section5 #all_container5 .r5 .c5 #cardBody5 .cardtext_e .btn8 {
+  .main #section5 #all_container5 .r5 .c5 #cardBody5 .btn8 {
     color: var(--white-color);
     background-color: var(--dark-color);
     border-color: var(--dark-color);
-    margin: 26px 29px;
+    margin: 26px 0;
     width: 14rem;
   }
-  .main #section5 #all_container5 .r5 .c5 #cardBody5 .cardtext_e .btn8:hover {
+  .main #section5 #all_container5 .r5 .c5 #cardBody5 .btn8:hover {
     background-color: transparent;
     color: var(--white-color);
     border-color: var(--white-color);
@@ -308,10 +308,6 @@ img {
     background-color: var(--dark-color);
     color: var(--white-color);
     border-color: var(--dark-color);
-  }
-  #main2 #hero2 .div1 .div2 .image_h {
-    margin: 67px 24px;
-    width: 200px;
   }
   #footer {
     background-color: var(--dark-color);
