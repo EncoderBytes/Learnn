@@ -743,6 +743,11 @@ img {
     color: var(--white-color);
     border-color: var(--white-color);
   }
+  .main #section5 #all_container5 .r5 .c5 #cardBody5 .btn8 span {
+    word-spacing: 0px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+  }
   .main #section5 .sec5_button {
     margin: 5px 0;
   }
