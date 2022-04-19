@@ -275,34 +275,27 @@ img {
         #section4 {
             margin: 7rem 0;
 
-            .sec4_button {
-                margin: 5px 0;
+            #all_container {
 
-                .out_btn7 {
-                    .btn7 {
-                        margin: auto;
-                        color: var(--white-color);
-                        // opacity: .4;
-                        background-color: transparent;
-                        border-color: var(--white-color);
-                        width: 79%;
-                        padding: 6px 10px;
 
-                        &:hover {
-                            background-color: var(--dark-color);
-                            color: var(--white-color);
-                            border-color: var(--dark-color);
-                        }
+                .r {
+                    .c {
+                        background: rgba(0, 33, 102, 0.2);
+                        border-radius: 11px;
+                        width: 170px;
+                        height: 179px;
+                        background-size: cover;
 
-                        span {
-                            word-spacing: 0px;
-                            letter-spacing: 1.8px;
-                            text-transform: uppercase;
+                        #cardBody {
+                            padding: 19px;
+
+                            .img1 {
+                                margin: 37px;
+
+                            }
                         }
                     }
                 }
-
-
             }
         }
 
@@ -829,34 +822,26 @@ img {
         #section4 {
             margin: 7rem 0;
 
-            .sec4_button {
-                margin: 5px 0;
+            #all_container {
 
-                .out_btn7 {
-                    .btn7 {
-                        margin: auto;
-                        color: var(--white-color);
-                        // opacity: .4;
-                        background-color: transparent;
-                        border-color: var(--white-color);
-                        width: 79%;
-                        padding: 6px 10px;
 
-                        &:hover {
-                            background-color: var(--dark-color);
-                            color: var(--white-color);
-                            border-color: var(--dark-color);
-                        }
+                .r {
+                    .c {
+                        background: rgba(0, 33, 102, 0.2);
+                        border-radius: 11px;
+                        // width: 33rem;
+                        background-size: cover;
 
-                        span {
-                            word-spacing: 0px;
-                            letter-spacing: 1.8px;
-                            text-transform: uppercase;
+
+                        #cardBody {
+                            padding: 19px;
+
+                            .img1 {
+                                margin: 42px;
+                            }
                         }
                     }
                 }
-
-
             }
         }
 

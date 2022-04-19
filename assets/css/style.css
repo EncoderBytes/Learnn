@@ -235,26 +235,18 @@ img {
   .main #section4 {
     margin: 7rem 0;
   }
-  .main #section4 .sec4_button {
-    margin: 5px 0;
+  .main #section4 #all_container .r .c {
+    background: rgba(0, 33, 102, 0.2);
+    border-radius: 11px;
+    width: 170px;
+    height: 179px;
+    background-size: cover;
   }
-  .main #section4 .sec4_button .out_btn7 .btn7 {
-    margin: auto;
-    color: var(--white-color);
-    background-color: transparent;
-    border-color: var(--white-color);
-    width: 79%;
-    padding: 6px 10px;
+  .main #section4 #all_container .r .c #cardBody {
+    padding: 19px;
   }
-  .main #section4 .sec4_button .out_btn7 .btn7:hover {
-    background-color: var(--dark-color);
-    color: var(--white-color);
-    border-color: var(--dark-color);
-  }
-  .main #section4 .sec4_button .out_btn7 .btn7 span {
-    word-spacing: 0px;
-    letter-spacing: 1.8px;
-    text-transform: uppercase;
+  .main #section4 #all_container .r .c #cardBody .img1 {
+    margin: 37px;
   }
   .main #section5 #all_container5 .r5 {
     padding: 12px;
@@ -683,26 +675,16 @@ img {
   .main #section4 {
     margin: 7rem 0;
   }
-  .main #section4 .sec4_button {
-    margin: 5px 0;
+  .main #section4 #all_container .r .c {
+    background: rgba(0, 33, 102, 0.2);
+    border-radius: 11px;
+    background-size: cover;
   }
-  .main #section4 .sec4_button .out_btn7 .btn7 {
-    margin: auto;
-    color: var(--white-color);
-    background-color: transparent;
-    border-color: var(--white-color);
-    width: 79%;
-    padding: 6px 10px;
+  .main #section4 #all_container .r .c #cardBody {
+    padding: 19px;
   }
-  .main #section4 .sec4_button .out_btn7 .btn7:hover {
-    background-color: var(--dark-color);
-    color: var(--white-color);
-    border-color: var(--dark-color);
-  }
-  .main #section4 .sec4_button .out_btn7 .btn7 span {
-    word-spacing: 0px;
-    letter-spacing: 1.8px;
-    text-transform: uppercase;
+  .main #section4 #all_container .r .c #cardBody .img1 {
+    margin: 42px;
   }
   .main #section5 {
     margin: 5rem 8rem;
